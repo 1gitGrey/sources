@@ -1,0 +1,2 @@
+Adaptive_Backgrounds
+https://github.com/briangonzalez/jquery.adaptive-backgrounds.js
